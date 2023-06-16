@@ -21,6 +21,13 @@ We aim to bring the community together in a workshop on reproducibility in track
 * Hands-on section: tracking data processing tutorials and interactive section
 * Discussion on the future of reproducibility
 
+<div class="toc" markdown="1">
+## check more about the program here:
+
+{% for lesson in site.pages %}
+{% if lesson.title == "Program" %} [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
+{% endfor %}
+</div>
 
 ## Hands-on tutorial with Trackintel
 
@@ -37,7 +44,7 @@ Mobility Information Engineering Lab, ETH Zürich
 ## Contents:
 
 {% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
+{% if lesson.nav == true %} - [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
 {% endfor %}
 </div>
 
