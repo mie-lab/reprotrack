@@ -24,8 +24,7 @@ We aim to bring the community together in a workshop on reproducibility in track
 * Discussion on the future of reproducibility
 
 <div class="toc" markdown="1">
-## check more about the program here:
-
+check more about the program here:
 {% for lesson in site.pages %}
 {% if lesson.title == "Program" %} [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
 {% endfor %}
@@ -37,13 +36,10 @@ Our workshop is targeted at researchers working with tracking data who are inter
 
 ## Organizers
 <!-- would be cool to have the images and seperate contact details (github, linkedin etc.) -->
-[Nina Wiedemann](), nwiedemann@ethz.ch
-
-[Henry Martin](), martinhe@ethz.ch
-
-[Ye Hong](https://hongyeehh.github.io/), hongy@ethz.ch
-
-[Martin Raubal](), mraubal@ethz.ch
+- [Nina Wiedemann](), nwiedemann@ethz.ch
+- [Henry Martin](), martinhe@ethz.ch
+- [Ye Hong](https://hongyeehh.github.io/), hongy@ethz.ch
+- [Martin Raubal](), mraubal@ethz.ch
 
 [Mobility Information Engineering Lab, ETH Zürich]()
 
