@@ -6,7 +6,7 @@ title: Home
 
 Co-located with SIGSPATIAL' 23, November 13th (Monday) 2023, Hamburg, Germany
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" width="75%" %}
+{% include figure.html img="data-model.jpg" alt="intro image" width="75%" %}
 
 ## Background and workshop goals
 
@@ -24,15 +24,26 @@ We aim to bring the community together in a workshop on reproducibility in track
 * Discussion on the future of reproducibility
 
 <div class="toc" markdown="1">
-check more about the program here:
+Check more about the program here:
 {% for lesson in site.pages %}
 {% if lesson.title == "Program" %} [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
 {% endfor %}
 </div>
 
+## Keynote speaker
+
+To be announced soon.
+
 ## Hands-on tutorial with Trackintel
 
 Our workshop is targeted at researchers working with tracking data who are interested to get to know new tools for standardized data preprocessing. The second part of the workshop will feature a specific tool developed to improve reproducibility, namely the open-source library [Trackintel](https://github.com/mie-lab/trackintel). Trackintel builds on an established data model for mobility data and aims to align preprocessing methods in a common framework. It is applicable to different types of tracking data and yields high-level representations such as locations, activity staypoints and trips, which are consistent with movement concepts in GIS and transport planning. The functionality of Trackintel will be shortly presented by the workshop organizers and demonstrated on a standard tracking dataset that is publicly available. Participants will then have the chance to work with their own tracking data. In the hands-on tutorial, participants will be asked to follow the preprocessing steps as well as to apply analysis tools yielding high-level information such as the length of trips, the data quality in terms of temporal tracking coverage, and transport mode split. With the tutorial, participants will gain a basic understanding of the procedures of reproducible mobility analysis and will be able to fairly compare the properties of their data with open-source datasets. 
+
+<div class="toc" markdown="1">
+Check more about the trackintel library here:
+{% for lesson in site.pages %}
+{% if lesson.title == "Trackintel" %} [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
+{% endfor %}
+</div>
 
 ## Organizers
 <!-- would be cool to have the images and seperate contact details (github, linkedin etc.) -->
@@ -42,14 +53,6 @@ Our workshop is targeted at researchers working with tracking data who are inter
 - [Martin Raubal](), mraubal@ethz.ch
 
 [Mobility Information Engineering Lab, ETH Zürich]()
-
-<div class="toc" markdown="1">
-## Contents:
-
-{% for lesson in site.pages %}
-{% if lesson.nav == true %} - [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
 
 <!-- Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}. -->
 
