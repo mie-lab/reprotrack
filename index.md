@@ -4,6 +4,8 @@ title: Home
 
 # 1st ACM SIGSPATIAL International Workshop on Reproducibility in tracking data analysis and mobility research
 
+Co-located with SIGSPATIAL' 23, November 13th (Monday) 2023, Hamburg, Germany
+
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" width="75%" %}
 
 ## Background and workshop goals
@@ -35,10 +37,15 @@ Our workshop is targeted at researchers working with tracking data who are inter
 
 ## Organizers
 <!-- would be cool to have the images and seperate contact details (github, linkedin etc.) -->
-Nina Wiedemann, Henry Martin, Ye Hong, Martin Raubal
-{nwiedemann, martinhe, hongy, mraubal}@ethz.ch
+[Nina Wiedemann](), nwiedemann@ethz.ch
 
-Mobility Information Engineering Lab, ETH Zürich
+[Henry Martin](), martinhe@ethz.ch
+
+[Ye Hong](https://hongyeehh.github.io/), hongy@ethz.ch
+
+[Martin Raubal](), mraubal@ethz.ch
+
+[Mobility Information Engineering Lab, ETH Zürich]()
 
 <div class="toc" markdown="1">
 ## Contents:

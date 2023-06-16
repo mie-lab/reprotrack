@@ -1,5 +1,5 @@
 ---
-title: Start
+title: Trackintel
 nav: true
 ---
 
