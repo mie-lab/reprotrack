@@ -10,8 +10,8 @@
 # title appears in the header
 title: 1st ACM SIGSPATIAL International Workshop on Reproducibility in tracking data analysis and mobility research (ReproTrack)
 # description and keywords for meta tags
-# description: "Create an OER workshop website quick and easy!"
-# keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
+description: "Create an OER workshop website quick and easy!"
+keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
 
 # author settings for cc-by, appears in the footer
 author: MIE Lab, ETH Zurich
