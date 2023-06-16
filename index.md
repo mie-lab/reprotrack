@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Workshop Template!
+# 1st ACM SIGSPATIAL International Workshop on Reproducibility in tracking data analysis and mobility research
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
