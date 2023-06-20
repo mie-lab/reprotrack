@@ -1,70 +1,32 @@
-# workshop-template
+# 1st ACM SIGSPATIAL International Workshop on Reproducibility in tracking data analysis and mobility research
 
-A Jekyll template for a simple workshop website, based on the [Minima theme](https://github.com/jekyll/minima), designed for hosting on [gh-pages](https://pages.github.com/).
+Co-located with SIGSPATIAL' 23, November 13th (Monday) 2023, Hamburg, Germany
 
-Works best for about 5 pages of instructions, plus index, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
+## Background and workshop goals
 
-> p.s. this is the minimal template--for a slightly more refined look, try the Bootstrap version [workshop-template-b](https://github.com/evanwill/workshop-template-b)
+In 2015, a study by The Reproducibility Project: Psychology estimated the rate of replicability of psychology studies published in top journals at about 40%, sending shock-waves through the community and starting what is called the replicability crises in psychology. Since then, subsequent studies showed that the problem of reproducible research is not limited to Psychology, but poses a systematic problem in all scientific disciplines. Very recently, researchers discussed the challenges of reproducibility in geoinformation science and spatial sciences and how to address them in practice. However, these best-practices are not yet adopted in all fields within GIScience.
 
-## Why?
+Reproducibility is especially challenging in mobility analysis, a core area of research presented at ACM SIGSPATIAL. Here, our understanding of how people travel was greatly enhanced over the last years based on large-scale movement data such as call-detail record (CDR), check-in sequences from location-based social networks (LBSN) and GNSS tracking data sets. However, real-world data is often plagued by inaccuracies, such as GNSS noise, false labeling and limited tracking coverage, all of which require extensive preprocessing efforts. 
+Preprocessing in movement data analysis is still not standardized and the processing steps and their outcomes are, therefore, often different across studies. Problematically, the results of studies based on mobility data strongly depend on the employed preprocessing methods. Thus, the variety of preprocessing methods hinders the comparability of research results in movement data analysis. They are further not documented comprehensively and prominently in many studies, limiting the reproducibility of mobility studies.
 
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and gh-pages makes this super easy.
+We aim to bring the community together in a workshop on reproducibility in tracking data analysis and mobility research to discuss and advance reproducibility and transparency in movement data analysis. The workshop will comprise an keynote talk, an interactive tutorial on standardizing tracking data analysis and a discussion section on necessary future efforts to improve the comparability of mobility research.
 
-It is a better Open Educational Resource since anyone can fork and adapt!
+## Program
 
-## Details
+* Keynote on Reproducibility in Spatial Data Science
+* Hands-on section: tracking data processing tutorials and interactive section
+* Discussion on the future of reproducibility
 
-The `workshop-template` [repository](https://github.com/evanwill/workshop-template) is a template project--to get started quickly, make a copy and fill in your own content and customizations.
-The [site](https://evanwill.github.io/workshop-template/) demonstrates the output on gh-pages, and the content pages serve as examples.
 
-Overview:
+## Hands-on tutorial with Trackintel
 
-1. Copy the code to your own repository by clicking the green "Use this template" button (alternatively, import the [repository](https://github.com/evanwill/workshop-template) on GitHub or manually copy the files into a new repo).
-2. Clone to your local machine, or work on the GitHub web interface to edit files.
-3. Edit the `_config.yml` with your info.
-4. Edit the content pages in markdown.
-5. Add images to the "images" folder.
-5. Push to GitHub (or commit on the web interface).
-6. In your repo's settings, activate gh-pages, using main branch.
+Our workshop is targeted at researchers working with tracking data who are interested to get to know new tools for standardized data preprocessing. The second part of the workshop will feature a specific tool developed to improve reproducibility, namely the open-source library [Trackintel](https://github.com/mie-lab/trackintel). Trackintel builds on an established data model for mobility data and aims to align preprocessing methods in a common framework. It is applicable to different types of tracking data and yields high-level representations such as locations, activity staypoints and trips, which are consistent with movement concepts in GIS and transport planning. The functionality of Trackintel will be shortly presented by the workshop organizers and demonstrated on a standard tracking dataset that is publicly available. Participants will then have the chance to work with their own tracking data. In the hands-on tutorial, participants will be asked to follow the preprocessing steps as well as to apply analysis tools yielding high-level information such as the length of trips, the data quality in terms of temporal tracking coverage, and transport mode split. With the tutorial, participants will gain a basic understanding of the procedures of reproducible mobility analysis and will be able to fairly compare the properties of their data with open-source datasets. 
 
-When creating content pages:
+## Organizers
+- [Nina Wiedemann](), nwiedemann@ethz.ch
+- [Henry Martin](), martinhe@ethz.ch
+- [Ye Hong](https://hongyeehh.github.io/), hongy@ethz.ch
+- [Martin Raubal](), mraubal@ethz.ch
 
-- to include a page in the nav, add `nav: true` to the file's yml front matter.
-- the `title:` value will appear in the nav, sorted in the order of filenames. For simplicity use leading numbers in the lesson page filenames to create correct order.
-- the default layout does not add `title` to the page, so it can be a short for the nav. 
-Add a title in the Markdown content.
+Mobility Information Engineering Lab, ETH Zürich
 
-Using figure include:
-
-- put all images in the `images` directory.
-- figures will be centered, and can optionally be given a caption and percentage width.
-- in a markdown file where you want the image to appear, use the `figure.html` include on its own line.
-- pattern: `{% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}`
-
-Basic style customization:
-
-- the `main.scss` in the `css` folder exposes variables that can customize the basic style of website.
-- Give a tiny splash of color on the header and footer borders by tweaking the `$border-color` 
-- `$link-color` colors links
-
-Using optional google analytics:
-
-- add your analytics id to `_config.yml` in `google-analytics-id:` 
-- if `google-analytics-id:` is blank, the ga code will not added
-- analytics code will only be added when using "production" environment. This happens automatically on gh-pages. To build locally, use `JEKYLL_ENV=production jekyll build`
-
-> Repository does not include a Gemfile because it is a very simple project. 
-> Originally built using Ruby 2.3+ and Jekyll 3.4+; most recently used Jekyll 3.8.1.
-
-## Demos
-
-My workshop sites using versions of this template:
-
-- [get-git](https://evanwill.github.io/get-git/)
-- [hello-arduino](https://evanwill.github.io/hello-arduino/)
-- [clean-your-data](https://evanwill.github.io/clean-your-data/)
-- [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/)
-- [Make @ the MILL](https://uidaholib.github.io/make-at-the-mill/)
