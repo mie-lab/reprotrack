@@ -19,7 +19,7 @@ pub_year: 2023
 github_username: mie-lab
 
 # add the full url for the github repository
-repo: "https://github.com/mie-lab/demo-website"
+repo: "https://github.com/mie-lab/reprotrack"
 
 # site urls
 # add the url for the domain,
@@ -27,7 +27,7 @@ repo: "https://github.com/mie-lab/demo-website"
 url: https://mie-lab.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /demo-website
+baseurl: /reprotrack
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
