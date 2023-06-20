@@ -2,6 +2,8 @@
 
 Co-located with SIGSPATIAL' 23, November 13th (Monday) 2023, Hamburg, Germany
 
+![teaser](images/teaser.png?raw=True)
+
 ## Background and workshop goals
 
 In 2015, a study by The Reproducibility Project: Psychology estimated the rate of replicability of psychology studies published in top journals at about 40%, sending shock-waves through the community and starting what is called the replicability crises in psychology. Since then, subsequent studies showed that the problem of reproducible research is not limited to Psychology, but poses a systematic problem in all scientific disciplines. Very recently, researchers discussed the challenges of reproducibility in geoinformation science and spatial sciences and how to address them in practice. However, these best-practices are not yet adopted in all fields within GIScience.
@@ -28,5 +30,4 @@ Our workshop is targeted at researchers working with tracking data who are inter
 - [Ye Hong](https://hongyeehh.github.io/), hongy@ethz.ch
 - [Martin Raubal](), mraubal@ethz.ch
 
-Mobility Information Engineering Lab, ETH Zürich
-
+[Mobility Information Engineering Lab, ETH Zürich](http://mie-lab.ethz.ch/)

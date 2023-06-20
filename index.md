@@ -6,7 +6,7 @@ title: Home
 
 Co-located with SIGSPATIAL' 23, November 13th (Monday) 2023, Hamburg, Germany
 
-{% include figure.html img="data_model.png" alt="intro image" width="75%" %}
+{% include figure.html img="teaser.png" alt="intro image" width="75%" %}
 
 ## Background and workshop goals
 
@@ -52,7 +52,7 @@ Check more about the trackintel library here:
 - [Ye Hong](https://hongyeehh.github.io/), hongy@ethz.ch
 - [Martin Raubal](), mraubal@ethz.ch
 
-[Mobility Information Engineering Lab, ETH Zürich]()
+[Mobility Information Engineering Lab, ETH Zürich](http://mie-lab.ethz.ch/)
 
 <!-- Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}. -->
 
