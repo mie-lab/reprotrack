@@ -46,11 +46,10 @@ Check more about the trackintel library here:
 </div>
 
 ## Organizers
-<!-- would be cool to have the images and seperate contact details (github, linkedin etc.) -->
-- [Nina Wiedemann](), nwiedemann@ethz.ch
-- [Henry Martin](), martinhe@ethz.ch
+- [Nina Wiedemann](https://baug.ethz.ch/en/department/people/staff/personen-detail.MjUzNzEy.TGlzdC82NzksLTU1NTc1NDEwMQ==.html), nwiedemann@ethz.ch
+- [Henry Martin](https://n.ethz.ch/~martinhe/), martinhe@ethz.ch
 - [Ye Hong](https://hongyeehh.github.io/), hongy@ethz.ch
-- [Martin Raubal](), mraubal@ethz.ch
+- [Martin Raubal](https://www.raubal.ethz.ch/), mraubal@ethz.ch
 
 [Mobility Information Engineering Lab, ETH Zürich](http://mie-lab.ethz.ch/)
 

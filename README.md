@@ -25,9 +25,9 @@ We aim to bring the community together in a workshop on reproducibility in track
 Our workshop is targeted at researchers working with tracking data who are interested to get to know new tools for standardized data preprocessing. The second part of the workshop will feature a specific tool developed to improve reproducibility, namely the open-source library [Trackintel](https://github.com/mie-lab/trackintel). Trackintel builds on an established data model for mobility data and aims to align preprocessing methods in a common framework. It is applicable to different types of tracking data and yields high-level representations such as locations, activity staypoints and trips, which are consistent with movement concepts in GIS and transport planning. The functionality of Trackintel will be shortly presented by the workshop organizers and demonstrated on a standard tracking dataset that is publicly available. Participants will then have the chance to work with their own tracking data. In the hands-on tutorial, participants will be asked to follow the preprocessing steps as well as to apply analysis tools yielding high-level information such as the length of trips, the data quality in terms of temporal tracking coverage, and transport mode split. With the tutorial, participants will gain a basic understanding of the procedures of reproducible mobility analysis and will be able to fairly compare the properties of their data with open-source datasets. 
 
 ## Organizers
-- [Nina Wiedemann](), nwiedemann@ethz.ch
-- [Henry Martin](), martinhe@ethz.ch
+- [Nina Wiedemann](https://baug.ethz.ch/en/department/people/staff/personen-detail.MjUzNzEy.TGlzdC82NzksLTU1NTc1NDEwMQ==.html), nwiedemann@ethz.ch
+- [Henry Martin](https://n.ethz.ch/~martinhe/), martinhe@ethz.ch
 - [Ye Hong](https://hongyeehh.github.io/), hongy@ethz.ch
-- [Martin Raubal](), mraubal@ethz.ch
+- [Martin Raubal](https://www.raubal.ethz.ch/), mraubal@ethz.ch
 
 [Mobility Information Engineering Lab, ETH Zürich](http://mie-lab.ethz.ch/)
