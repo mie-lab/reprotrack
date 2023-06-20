@@ -6,7 +6,7 @@ title: Home
 
 Co-located with SIGSPATIAL' 23, November 13th (Monday) 2023, Hamburg, Germany
 
-{% include figure.html img="teaser.png" alt="intro image" width="85%" %}
+{% include figure.html img="teaser.png" alt="intro image" width="100%" %}
 
 ## Background and workshop goals
 
