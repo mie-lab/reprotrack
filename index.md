@@ -34,7 +34,7 @@ Check more about the program here:
 
 Prof. [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/119/edzer_pebesma) (Director of the Institute for Geoinformatics, University of Münster)
 
-<div style="text-align:center"><img src="images/Pebesma.jpg" alt="Edzer Pebesma" height="200"/></div>.
+<div style="text-align:center"><img src="images/Pebesma.jpg" alt="Edzer Pebesma" height="200"/></div>
 
 
 ## Hands-on tutorial with Trackintel
@@ -50,9 +50,11 @@ Check more about the trackintel library here:
 
 ## Organizers
 
+<div align="center">
 | [Nina Wiedemann](https://baug.ethz.ch/en/department/people/staff/personen-detail.MjUzNzEy.TGlzdC82NzksLTU1NTc1NDEwMQ==.html) | [Henry Martin](https://n.ethz.ch/~martinhe/) | [Ye Hong](https://hongyeehh.github.io/) | [Martin Raubal](https://www.raubal.ethz.ch/) |
 | :---------------:| :---------------: | :---------------: | :---------------: |
 | <img src="images/ninawiedemann.jpeg" alt="Nina Wiedemann" height="150"/>  | <img src="images/henrymartin.jpeg" alt="Henry Martin" height="150"/>  | <img src="images/yehong.jpg" alt="Ye Hong" height="150"/>  | <img src="images/martinraubal.jpeg" alt="Martin Raubal" height="150"/>  |
+</div>
 
 [Mobility Information Engineering Lab, ETH Zürich](http://mie-lab.ethz.ch/)
 
