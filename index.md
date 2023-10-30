@@ -52,7 +52,7 @@ Check more about the trackintel library here:
 
 | [Nina Wiedemann](https://baug.ethz.ch/en/department/people/staff/personen-detail.MjUzNzEy.TGlzdC82NzksLTU1NTc1NDEwMQ==.html) | [Henry Martin](https://n.ethz.ch/~martinhe/) | [Ye Hong](https://hongyeehh.github.io/) | [Martin Raubal](https://www.raubal.ethz.ch/) |
 | :---------------:| :---------------: | :---------------: | :---------------: |
-| <img src="images/ninawiedemann.jpeg" alt="Nina Wiedemann" height="100"/>  | <img src="images/henrymartin.jpeg" alt="Henry Martin" height="100"/>  | <img src="images/yehong.jpg" alt="Ye Hong" height="100"/>  | <img src="images/martinraubal.jpeg" alt="Martin Raubal" height="100"/>  |
+| <img src="images/ninawiedemann.jpeg" alt="Nina Wiedemann" height="150"/>  | <img src="images/henrymartin.jpeg" alt="Henry Martin" height="150"/>  | <img src="images/yehong.jpg" alt="Ye Hong" height="150"/>  | <img src="images/martinraubal.jpeg" alt="Martin Raubal" height="150"/>  |
 
 [Mobility Information Engineering Lab, ETH Zürich](http://mie-lab.ethz.ch/)
 
