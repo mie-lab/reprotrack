@@ -21,7 +21,7 @@ We aim to bring the community together in a workshop on reproducibility in track
 
 * Keynote on Reproducibility in Spatial Data Science
 * Hands-on section: tracking data processing tutorials and interactive section
-* Discussion on the future of reproducibility
+* Discussion on the future of reproducibility in tracking data analysis.
 
 <div class="toc" markdown="1">
 Check more about the program here:
