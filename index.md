@@ -17,24 +17,31 @@ Preprocessing in movement data analysis is still not standardized and the proces
 
 We aim to bring the community together in a workshop on reproducibility in tracking data analysis and mobility research to discuss and advance reproducibility and transparency in movement data analysis. The workshop will comprise an keynote talk, an interactive tutorial on standardizing tracking data analysis and a discussion section on necessary future efforts to improve the comparability of mobility research.
 
-## Program
 
-* Keynote on Reproducibility in Spatial Data Science
-* Hands-on section: tracking data processing tutorials and interactive section
-* Discussion on the future of reproducibility in tracking data analysis.
-
-<div class="toc" markdown="1">
-Check more about the program here:
-{% for lesson in site.pages %}
-{% if lesson.title == "Program" %} [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
 
 ## Keynote speaker
 
 Prof. [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/119/edzer_pebesma) (Director of the Institute for Geoinformatics, University of Münster)
 
 <div style="text-align:center"><img src="images/Pebesma.jpg" alt="Edzer Pebesma" height="200"/></div>
+
+## Program
+
+* Keynote on Reproducibility in Spatial Data Science
+* Hands-on section: tracking data processing tutorials and interactive section
+* Discussion on the future of reproducibility in tracking data analysis.
+
+The detailed schedules are as follows:
+| Time | Content |  
+| :---------------:| :---------------: |
+| 8:00 - 8:10  | Welcome by workshop organizers |
+| 8:10 - 8:40  | Keynote speech by Prof. Edzer Pebesma (20 + 10 min Q&A) |
+| 8:40 - 8:55  | Introduction to the [Geoprivacy platform](https://geoprivacy.fi/#/) by [Ville Mäkinen](https://www.maanmittauslaitos.fi/en/research/contact-information/staff/ville-makinen) (10 + 5 min Q&A)|
+| 8:55 - 10:00  | Trackintel introduction and tutorial  |
+| 10:00 - 10:30  | Reproducibility interactive section  |
+| 10:30 - 11:00  | Coffee break |
+| 11:00 - 11:40  | Reproducibility interactive section continued |
+| 11:40 - 12:00  | Discussion: future of reproducibility |
 
 
 ## Hands-on tutorial with Trackintel
