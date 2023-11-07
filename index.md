@@ -23,7 +23,7 @@ We aim to bring the community together in a workshop on reproducibility in track
 
 Prof. [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/119/edzer_pebesma) (Director of the Institute for Geoinformatics, University of Münster)
 
-<div style="text-align:right"><img src="images/Pebesma.jpg" alt="Edzer Pebesma" height="200"/></div>
+<div style="text-align:center"><img src="images/Pebesma.jpg" alt="Edzer Pebesma" height="200"/></div>
 
 **Title**: Reproducibility in Tracking Data Analysis
 
@@ -60,6 +60,11 @@ Check more about the trackintel library here:
 {% if lesson.title == "Trackintel" %} [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
 {% endfor %}
 </div>
+
+## Register
+
+To give us an estimate of the number of attendees, please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScxIsRrc_rlI9zGSW9OFTy4HXt2nCUcTMQgXdhTfJgrJWhmbw/viewform?usp=sf_link). 
+
 
 ## Organizers
 
