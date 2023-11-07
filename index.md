@@ -23,7 +23,12 @@ We aim to bring the community together in a workshop on reproducibility in track
 
 Prof. [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/119/edzer_pebesma) (Director of the Institute for Geoinformatics, University of Münster)
 
-<div style="text-align:center"><img src="images/Pebesma.jpg" alt="Edzer Pebesma" height="200"/></div>
+<div style="text-align:right"><img src="images/Pebesma.jpg" alt="Edzer Pebesma" height="200"/></div>
+
+**Title**: Reproducibility in Tracking Data Analysis
+
+**Abstract**: In this talk I will discuss of reproducibility in general, why it matters for good science, the differences to replicability, and the challenging aspects to reproducing scientific computations.  I will also discuss the practice of how we conduct science, how and why we write, submit and review research papers, how and why we write, share and publish research software, and the connection between these two. Although not an expert in the area of tracking data analysis, I will try to shed some light on particular challenges for reproducibility of tracking data analysis, and try to formulate some recommendations.
+
 
 ## Program
 
