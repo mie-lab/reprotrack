@@ -27,6 +27,8 @@ Prof. [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/en/institute/st
 
 **Title**: Reproducibility in Tracking Data Analysis
 
+**Slides**: You can find the slides [here](https://docs.google.com/presentation/d/1M2SB1ibV0Jzt9FZFmdrEp_xWIZdZLC2X89xJdWaTSZs/edit?usp=sharing)
+
 **Abstract**: In this talk I will discuss of reproducibility in general, why it matters for good science, the differences to replicability, and the challenging aspects to reproducing scientific computations.  I will also discuss the practice of how we conduct science, how and why we write, submit and review research papers, how and why we write, share and publish research software, and the connection between these two. Although not an expert in the area of tracking data analysis, I will try to shed some light on particular challenges for reproducibility of tracking data analysis, and try to formulate some recommendations.
 
 
@@ -49,7 +51,6 @@ The detailed schedules are as follows:
 | 11:00 - 11:40  | Reproducibility interactive section continued |
 | 11:40 - 12:00  | Discussion: future of reproducibility |
 
-
 ## Hands-on tutorial with Trackintel
 
 Our workshop is targeted at researchers working with tracking data interested in new tools for standardized data preprocessing. The second part of the workshop will feature a specific tool developed to improve reproducibility, namely the open-source library [Trackintel](https://github.com/mie-lab/trackintel). Trackintel builds on an established data model for mobility data and aims to align preprocessing methods in a common framework. It is applicable to different types of tracking data and yields high-level representations such as locations, staypoints and trips, which are consistent with movement concepts in GIS and transport planning. The functionality of Trackintel will be shortly presented by the workshop organizers and demonstrated on a standard tracking dataset that is publicly available. Participants will then have the chance to work with their own tracking data. In the hands-on tutorial, participants will be asked to follow the preprocessing steps as well as to apply analysis tools yielding high-level information such as the length of trips, the data quality in terms of temporal tracking coverage, and transport mode split. With the tutorial, participants will gain a basic understanding of the procedures of reproducible mobility analysis and will be able to fairly compare the properties of their data with open-source datasets. 
@@ -61,9 +62,12 @@ Check more about the trackintel library here:
 {% endfor %}
 </div>
 
-## Register
+## Resources
 
-To give us an estimate of the number of attendees, please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScxIsRrc_rlI9zGSW9OFTy4HXt2nCUcTMQgXdhTfJgrJWhmbw/viewform?usp=sf_link). 
+* Keynote by Edzer Pebesma: [Slides here](https://docs.google.com/presentation/d/1M2SB1ibV0Jzt9FZFmdrEp_xWIZdZLC2X89xJdWaTSZs/edit?usp=sharing)
+* [Workshop slides](https://github.com/mie-lab/trackintel-tutorial/blob/main/sigspatial23/workshop_slides.pdf)
+* [Tutorial](https://github.com/mie-lab/trackintel-tutorial/blob/main/sigspatial23/Introduction_to_trackintel.ipynb)
+* Hands-on session: Materials can be found in the [trackintel-tutorial](https://github.com/mie-lab/trackintel-tutorial/blob/main/sigspatial23) repository.
 
 
 ## Organizers
